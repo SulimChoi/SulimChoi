@@ -28,8 +28,6 @@
 </p>
 </br>
     
-    
-    
 [![Slchoi's github stats](https://github-readme-stats.vercel.app/api?username=sulimchoi)](https://github.com/anuraghazra/github-readme-stats)
 
 
