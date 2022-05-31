@@ -28,8 +28,7 @@
 </p>
 </br>
     
-![Slchoi's github stats](https://github-readme-stats.vercel.app/api?username=sulimchoi&show_icons=true)
-[![Slchoi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sulimchoi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sulimchoi)
+![Slchoi's github stats](https://github-readme-stats.vercel.app/api?username=sulimchoi&show_icons=true) [![Slchoi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sulimchoi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sulimchoi)
 
 <!--
 **SulimChoi/SulimChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
